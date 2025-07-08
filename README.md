@@ -189,9 +189,3 @@ src/
 - Soporte para temas (dark/light).
 - Mejoras de accesibilidad (a11y).
 - Internacionalización (i18n).
-
----
-
-## Licencia
-
-MIT
