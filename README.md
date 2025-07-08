@@ -102,7 +102,7 @@ src/
 1. **Clona el repositorio:**
 
    ```bash
-   git clone <url-del-repo>
+   git clone https://github.com/jonathanjaimes/domina-prueba.git
    cd domina
    ```
 
