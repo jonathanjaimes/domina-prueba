@@ -6,7 +6,7 @@ const MainLayout = () => {
     <div>
       <header className={styles.header}>
         <img
-          src="/src/shared/assets/white-logo.png"
+          src="/white-logo.png"
           alt="Logo Domina"
           className={styles.logo}
         />
